@@ -2,6 +2,7 @@
 
 ## 提出者
 37237394, 岡本駿一
+
 最終的な結果は、main_case08.pyにて得られた結果です。
 
 # DL基礎講座2024　最終課題「Visual Question Answering（VQA）」
