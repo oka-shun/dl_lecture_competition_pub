@@ -1,6 +1,7 @@
 # 提出記録
 
 ユーザー名：oka-shun
+
 最終的な結果は、main_case08.pyにて得られた結果です。submission.npyはcase08フォルダの中に入っているものがOmnicampusへ提出したものとなります。ご確認の程、宜しくお願い致します。
 
 # DL基礎講座2024　最終課題「Visual Question Answering（VQA）」
